@@ -32,4 +32,4 @@
 </html>
 ```
 ### Output
-<img src="1.png">
+<img src="img/1.png" alt="">
